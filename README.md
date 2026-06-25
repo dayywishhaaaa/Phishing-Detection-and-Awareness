@@ -1,4 +1,5 @@
-# Phishing Email Detection & Awareness System
+# Phishing Detection and Awareness
+Cyber Security Internship Task 2 – Future Interns
 
 ## Overview
 This project analyzes phishing email samples to identify phishing indicators, classify email risk, and provide security awareness guidance for end users.
@@ -20,7 +21,15 @@ This project analyzes phishing email samples to identify phishing indicators, cl
 
 ## Project Structure
 
-Report
-Samples
-Analysis
-Evidence
+```
+Phishing-Detection/
+│
+├── Analysis/
+├── Evidence/
+│   ├── Headers/
+│   ├── URLs/
+│   └── Screenshots/
+├── Report/
+├── Samples/
+└── README.md
+```
